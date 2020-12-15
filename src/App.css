@@ -368,7 +368,7 @@ footer .social div{
     animation: fitness_thumbnail_images 1s ease-in;
   }
 
-  @media(max-width:550px){
+  @media(max-width:850px){
     header{
         height: auto;
     }

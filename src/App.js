@@ -27,8 +27,8 @@ function App() {
          <div className="header_bottom">
             <div className="header_focus" > 
                <h1>Get 10 Days Free Training Sessions!</h1>
-                <h3>Believe it , Achieve it and Working Hard.</h3>
-                <a href={href}>Visit our Gym</a>
+                <h3>Push yourself, because no one else is going to do it for you.</h3>
+                <a href={href}><i class="fas fa-hand-point-right"> </i> Visit our Gym</a>
             </div>
 
             <div className="registration_form">
@@ -87,7 +87,7 @@ function App() {
        <section className="fitness_icon1">
           <div className="fitness_icon1_work">
              <div className="fitness-trainer">
-                   <img src={process.env.PUBLIC_URL+ "/images/icon4.jpg"} alt="" />
+                   <img src={process.env.PUBLIC_URL+ "/images/icon6.jpg"} alt="" />
              </div>
              <div className="fitness_studio">
                 <h1>Our Personal Fitness Trainer</h1>
@@ -104,19 +104,19 @@ function App() {
            </div>
            <div className="price_tag">
               <div className="price_tag_list">
-                 <h1>Health</h1>
+                 <h1>Yoga</h1>
                  <p><span className="fees">500</span> /month</p>
-                 <p>Physical fitness is a state of health and well-being and, more specifically, the ability to perform aspects of sports, occupations and daily activities.</p>
+                 <p>Yoga is a mind and body practice with a 5,000-year history in ancient Indian philosophy. Various styles of yoga combine physical postures, breathing techniques, and meditation or relaxation.</p>
                  <div><a href={href}>Fitness</a></div>
               </div>
               <div className="price_tag_list">
-                 <h1>Health</h1>
+                 <h1>Gym</h1>
                  <p><span className="fees">1200</span> /month</p>
-                 <p>Physical fitness is a state of health and well-being and, more specifically, the ability to perform aspects of sports, occupations and daily activities.</p>
+                 <p>Gymnasium is a large room with equipment for exercising the body and increasing strength or a club where you can go to exercise and keep fit.</p>
                  <div><a href={href}>Fitness</a></div>
               </div>
               <div className="price_tag_list">
-                 <h1>Health</h1>
+                 <h1>Fitness</h1>
                  <p><span className="fees">1700</span> /month</p>
                  <p>Physical fitness is a state of health and well-being and, more specifically, the ability to perform aspects of sports, occupations and daily activities.</p>
                  <div><a href={href}>Fitness</a></div>
@@ -134,7 +134,7 @@ function App() {
         <div className="fbanner">
             <div className="feel">
                 <h1>Feel The Power</h1>
-                <p>Physical fitness is a state of health and well-being and, more specifically, the ability to perform aspects of sports, occupations and daily activities.</p>
+                <p>The last three or four reps is what makes the muscle grow. This area of pain divides a champion from someone who is not a champion..</p>
                 <span><a href={href}>Fitness</a></span>
             </div>
         </div>
