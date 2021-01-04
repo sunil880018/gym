@@ -42,10 +42,14 @@ header .header_background{
     align-items: center;
     justify-content: space-around;
 }
+#home-btn{
+    background-color: #ff4000;
+}
 .menus .menu-list{
     padding: 5px 20px;
     font-size: 1.3rem;
     cursor: pointer;
+    border-radius: 5px;
 }
 .menus .menu-list a{
     color: #fff;
