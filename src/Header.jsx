@@ -66,7 +66,7 @@ const contactPage = () =>{
              <p><span className="gym">Gym</span><span className="fit">Fit</span></p>
            </div>
            <div className="menus">
-              <div className="menu-list" id="home-btn"><Link to="/" onClick={homePage}>Home</Link></div>
+              <div className="menu-list" id="home-btn"><Link to="/gym" onClick={homePage}>Home</Link></div>
               <div className="menu-list" id="blog-btn"><Link to="/blog" onClick={blogPage}>Blogs</Link></div>
               <div className="menu-list" id="contact-btn"><Link to="/contact" onClick={contactPage}>Contact</Link></div>
               <div className="menu-list" id="about-btn"><Link to="/about" onClick={aboutPage}>About Us</Link></div>
